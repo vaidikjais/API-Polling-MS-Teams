@@ -8,9 +8,6 @@ Enterprise-grade FastAPI application for retrieving Microsoft Teams messages thr
 
 This service provides a REST API endpoint to programmatically fetch messages from Microsoft Teams channels and chats. Built with modern Python async patterns, it handles authentication, pagination, and error recovery automatically.
 
-**Status:** ✅ Production Ready  
-**Version:** 1.0.0  
-**Last Updated:** November 27, 2025
 
 ---
 
